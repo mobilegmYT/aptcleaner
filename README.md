@@ -1,6 +1,6 @@
-![logo](https://raw.githubusercontent.com/GabeCoder/aptcleaner/main/icon.png)
-
 # APT Cleaner
+
+![logo](https://raw.githubusercontent.com/GabeCoder/aptcleaner/main/icon.png)
 
 APT Cleaner is an open-source Debian tool for removing unnecessary packages from your operating system.
 
