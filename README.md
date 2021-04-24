@@ -29,6 +29,7 @@ To use:
 ```bash
 
 cd ~/aptcleaner
-./aptcleaner.sh```
+./aptcleaner.sh
+```
 =======
 Download APT Cleaner Installer: [APT Cleaner.tar.gz](https://github.com/GabeCoder/aptcleaner/files/6370058/APT.Cleaner.tar.gz)
