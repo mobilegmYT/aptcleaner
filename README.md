@@ -18,7 +18,7 @@ sudo apt install lxterminal -y
 cd ~
 git clone https://github.com/GabeCoder/aptcleaner
 cd aptcleaner
-chmod +x clean.sh process.sh
+chmod +x clean.sh aptcleaner.sh
 
 ```
 ## Usage 
@@ -28,5 +28,5 @@ To use:
 ```bash 
 
 cd ~/aptcleaner
-./clean.sh
+./aptcleaner.sh
 
