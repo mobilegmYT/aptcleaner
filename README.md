@@ -10,7 +10,7 @@ To install:
 
 ![logo](https://raw.githubusercontent.com/Botspot/pi-apps/master/icons/badge.png)
 
-OR 
+OR
 
 ```bash
 
@@ -21,12 +21,12 @@ cd aptcleaner
 chmod +x clean.sh aptcleaner.sh
 
 ```
-## Usage 
+
+## Usage
 
 To use:
 
-```bash 
+```bash
 
 cd ~/aptcleaner
 ./aptcleaner.sh
-
