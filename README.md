@@ -12,24 +12,25 @@ To install:
 
 OR
 
-```bash
+Download APT Cleaner Installer: [APT Cleaner.tar.gz](https://github.com/GabeCoder/aptcleaner/files/6370058/APT.Cleaner.tar.gz)
 
+OR
+
+```
+bash
 sudo apt install lxterminal -y
 cd ~
 git clone https://github.com/GabeCoder/aptcleaner
 cd aptcleaner
 chmod +x clean.sh aptcleaner.sh
-
 ```
 
 ## Usage
 
 To use:
 
-```bash
-
+```
+bash
 cd ~/aptcleaner
 ./aptcleaner.sh
 ```
-=======
-Download APT Cleaner Installer: [APT Cleaner.tar.gz](https://github.com/GabeCoder/aptcleaner/files/6370058/APT.Cleaner.tar.gz)
